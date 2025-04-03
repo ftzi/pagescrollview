@@ -9,7 +9,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![TypeScript](https://badgen.net/npm/types/env-var)](http://www.typescriptlang.org/)
 [![npm](https://img.shields.io/npm/v/pagescrollview)](https://www.npmjs.com/package/pagescrollview)
-[![npm](https://img.shields.io/npm/dm/pagescrollview)](https://www.npmjs.com/package/pagescrollview)
 </div>
 
 React Native ScrollView component interface that fills all the available area and has a working scrolling (!).
